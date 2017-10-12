@@ -1,6 +1,6 @@
 const app = {
   run (el) {
-    el.textContent = 'vai'
+    // el.textContent = 'vai'
   }
 }
 
